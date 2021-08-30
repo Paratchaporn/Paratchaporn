@@ -1,6 +1,6 @@
         ✨Nice to meet you ✨
  - 👋 Hi, I’m Jern      
- - 👀 I’m interested in web development
+ - 👀 I’m interested in web development and ux/ui design
  - 🎉 I’m currently learning Digital Engineering
  - 📫 How to reach me patratchaporn.u@gmail.com 
 
