@@ -1,7 +1,7 @@
         ✨Nice to meet you ✨
  - 👋 Hi, I’m Jern      
  - 👀 I’m interested in web development and ux/ui design
- - 🎉 I’m currently learning Digital Engineering
+ - 🎉 Certificate https://www.canva.com/design/DAEmfn2-Zws/C_U5ysT9Oz0YqP84wBBSMA/edit
  - 📫 How to reach me patratchaporn.u@gmail.com 
 
 
