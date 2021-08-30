@@ -1,8 +1,9 @@
+        
         ✨Nice to meet you ✨
  - 👋 Hi, I’m Jern
- - ⏳ I'm currently working on website project      
+ - ⏳  I'm currently working on website project      
  - 👀 I’m interested in web development and ux/ui design
- - 🎉 Resume https://www.canva.com/design/DAEmfn2-Zws/C_U5ysT9Oz0YqP84wBBSMA/edit
+ - 🎉 I’m looking to collaborate with intern companys 
  - 📫 How to reach me patratchaporn.u@gmail.com 
 
 
